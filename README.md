@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p align="center">
     <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5-critical">
     <img src="https://img.shields.io/static/v1?label=wechat&message=alexlin51&color=7BB32E&logo=wechat">
-    <a href="https://www.linkedin.com/in/alexlin-profile" target="_blank"><img src="https://www.linkedin.com/in/alexlin-profile"></a>
+    <a href="https://www.linkedin.com/in/alexlin-profile" target="_blank"><img src="https://img.shields.io/badge/website-pudongping.com-orange"></a>
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love">
 </p>
 
