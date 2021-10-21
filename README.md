@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 🎉 **Welcome to my GitHub profile!**
 
 <!-- Weird English generator - https://www.dute.org/weird-fonts -->
-<!-- Hi, I'm Alex , a passionate self-taught Full Stack web developer and a funny software engineer from China. -->
+<!-- Hi, I'm Alex , a passionate self-taught Full Stack web developer from China. -->
 <!-- I take great care in the architecture and code quality of the things  I build.  -->
 <!-- I am also an open-source enthusiast and maintainer.  -->
 <!-- I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. -->
