@@ -83,11 +83,8 @@ Here are some ideas to get you started:
 
 ## 🔥 My main projects:
 
-- :kissing_heart: [hexo-blog](https://github.com/pudongping/pudongping.github.io.git) - This is the personal blog I am using.
-- :v: [larablog](https://github.com/pudongping/larablog.git) - This is a blog project I wrote before using the php laravel framework.
-- :point_right: [ubiquitous-nodejs](https://github.com/pudongping/ubiquitous-nodejs.git) - ubiquitous-nodejs is a web scaffold which is based on node.js.
-- :thumbsup: [document-converter](https://github.com/pudongping/document-converter.git) - A tool for converting between docx and pdf documents written in python3.
-- :rainbow: [weather](https://github.com/pudongping/weather.git) - PHP weather information Composer component based on AutoNavi open platform.
+- :kissing_heart: [github](https://github.com/pudongping/pudongping.github.io.git) - This is the personal blog I am using.
+- :v: [CollectionBuilderGH](https://alexlin519.github.io/Building_Digital_Exhibits_with_Collection_Builder/) - This is a personal project for creating small digital collection exhibits.   
 </details>
 <!-- details end-->
 
