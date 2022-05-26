@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 <!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
 <!-- Typing SVG Fast Demo - https://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=380&height=45&lines=Data+Analyst+and+Business+Analyst;Full+scholarship+UBC+math+undergrad;Always+learning+new+things">
+    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=380&height=45&lines=Data+Analyst+and+Business+Analyst;Full+scholarship+UBC+math+undergrad;Growth+mindset+and+commitment+to+excellence">
 </p>
+
 
 <p align="center">
     <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5-critical">
