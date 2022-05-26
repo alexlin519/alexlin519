@@ -74,19 +74,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I am happy to help;
 
 
-<!-- waka readme - https://github.com/athul/waka-readme -->
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Week: 22 September, 2021 - 28 September, 2021
-
-PHP        27 hrs 37 mins  ████████████████████▒░░░░   81.24 % 
-Bash       2 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Markdown   1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-INI        1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Other      24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-```
-<!--END_SECTION:waka-->
 
 <br/>
 
