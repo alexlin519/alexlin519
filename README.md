@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">
     Hi~ Thank you for coming!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="8px" height="8px">
 </h3>
 
 <!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
